@@ -29,6 +29,9 @@ h1{
     background-color: #FFF1DE;
 }
 /* NAVIGATION BAR */
+.title{
+    text-align: center;
+}
 li{
     list-style: none;
 }
@@ -46,6 +49,8 @@ color: black;
 .nav__bar--end{
     display: flex;
     justify-content: space-between;
+    padding-top: 15px;
+    padding-right:15px;
 }
 .nav__right{
     display: flex;
@@ -85,8 +90,11 @@ color: black;
 }
 
 /* PAST */
+.timeline{
+    border: 2px solid;
+}
 .work{
     display: flex;
-    border: 2px solid;
+    
 
 }
