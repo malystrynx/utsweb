@@ -43,11 +43,15 @@ color: #3b3b3b;
     display: flex;
     align-items: center;
 }
+a:hover{
+    text-decoration: underline;
+}
 .nav__bar--end{
     display: flex;
     justify-content: space-between;
     padding-top: 15px;
     padding-right:15px;
+    padding-bottom: 50px;
 }
 .nav__right{
     display: flex;
@@ -60,10 +64,10 @@ color: #3b3b3b;
 
 /* Home Page */
 
-.home{
+/* .home{
     padding-left: 50px;
     padding-right: 50px;
-}
+} */
 
 .home__subjects{
     list-style:circle;
@@ -82,18 +86,14 @@ color: #3b3b3b;
     font-weight:600;
 
 }
-.introduction__sizing{
-    padding-top: 100px;
-}
+
 
 .color{
     color: #211300;
 }
 
 /* PAST */
-.timeline{
-    border: 2px solid;
-}
+
 .work{
     display: flex;
     
@@ -102,4 +102,9 @@ color: #3b3b3b;
 
 .class__timeline{
     border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 400px;
 }
+
