@@ -64,10 +64,10 @@ a:hover{
 
 /* Home Page */
 
-/* .home{
-    padding-left: 50px;
-    padding-right: 50px;
-} */
+.home{
+max-width: 70%;
+margin: auto;
+}
 
 .home__subjects{
     list-style:circle;
