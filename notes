@@ -1,0 +1,24 @@
+<!-- 5 CSS classes -->
+<!-- 1 CSS id -->
+<!-- 1 div -->
+1 span
+1 table (NOT CSS tables)
+1 list (any one of ordered, unordered, definition)
+1 image  (should not be large, e.g.  over 1Mb in size)
+
+
+past.html
+This page should describe your experiences with computing so far (eg: mention your HSC experience, past work experience).
+
+future.html
+This page should describe what you want to do with computing in the future.
+
+comments.html
+This page is where the content, not only the execution, matters.  You are required to comment on :
+
+A short, personal reflection on your overall design
+The technical aspects of your website: eg: describe its structure, what CSS selectors/id's etc you used, and why (about half a page)
+The aesthetics of your website - eg: how users should perceive your pages and what effects you were trying to achieve (about half a page).
+An introduction to the aesthetics of Web design can be found here: http://alistapart.com/article/the-web-aestheticLinks to an external site. and at http://www.webstyleguide.com/wsg3/Links to an external site.
+The accessibility aspects of your website - eg: how you made your web site usable by disabled users.
+A quick guide to accessibility can be found at https://www.w3.org/standards/webdesign/accessibilityLinks to an external site. and athttp://webaim.org/intro/

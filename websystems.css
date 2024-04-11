@@ -7,12 +7,9 @@
 }
 
 /* UNIVERSAL */
-body{
-    background-image: url(./pictures/backgroundimg.jpg);
-    background-size: cover;
-    
-}
+
 p{
+    color: #3b3b3b;
     font-size: 16px;
     line-height: 30px;
 }
@@ -25,8 +22,8 @@ h1{
     line-height: 30px;
 }
 /* BACKGROUND */
-.background{
-    background-color: #FFF1DE;
+#background{
+    background-color: #f4efe4;
 }
 /* NAVIGATION BAR */
 .title{
@@ -40,7 +37,7 @@ li{
 font-size: 15px;
 padding-left: 15px;
 padding-right: 15px;
-color: black;
+color: #3b3b3b;
 }
 .nav{
     display: flex;
@@ -70,7 +67,7 @@ color: black;
 
 .home__subjects{
     list-style:circle;
-    color:black;
+    color:#3b3b3b;
 }
 
 .home__layout{
@@ -87,6 +84,10 @@ color: black;
 }
 .introduction__sizing{
     padding-top: 100px;
+}
+
+.color{
+    color: #211300;
 }
 
 /* PAST */
