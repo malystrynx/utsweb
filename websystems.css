@@ -91,7 +91,10 @@ margin: auto;
 .color{
     color: #211300;
 }
-
+.image{
+    display: flex;
+    align-items: center;
+}
 /* PAST */
 
 .work{
@@ -99,7 +102,9 @@ margin: auto;
     
 
 }
-
+.timeline{
+    display: flex;
+}
 .class__timeline{
     border: 2px solid;
     border-radius: 10px;
