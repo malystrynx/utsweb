@@ -11,7 +11,7 @@
 p{
     color: #3b3b3b;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 20px;
 }
 a{
     text-decoration: none;
@@ -19,7 +19,16 @@ a{
 }
 h1{
     text-align: center;
-    line-height: 30px;
+    
+}
+h4{
+    font-weight: bold;
+    font-size: small;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.blue{
+    color: rgb(23, 79, 183);
 }
 /* BACKGROUND */
 #background{
@@ -28,6 +37,8 @@ h1{
 /* NAVIGATION BAR */
 .title{
     text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
 }
 li{
     list-style: none;
@@ -77,39 +88,52 @@ margin: auto;
 .home__layout{
     display: flex;
     justify-content:space-around;
+    padding-top: 20px;
 }
 /* HOME PAGE */
 
 .introduction{
     font-size: 40px;
-    line-height: 1.5;
+    padding-bottom: 30px;
     font-weight:600;
-
-}
-
-
-.color{
-    color: #211300;
-}
-.image{
-    display: flex;
-    align-items: center;
-}
-/* PAST */
-
-.work{
-    display: flex;
     
 
 }
-.timeline{
+
+
+.image{
     display: flex;
+    align-items: center;
+    float: right;
 }
-.class__timeline{
-    border: 2px solid;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 400px;
+/* PAST */
+.past__title{
+    color: #11a372;
+    font-size: 30px;
+padding-top: 20px;
+padding-bottom: 10px;
 }
 
+.timeline{
+   
+}
+.line{
+    padding:  0px 30px ;
+    border-left: 2px solid #bababa;
+}
+
+.para{
+    padding-bottom: 20px;
+}
+
+/* FUTURE */
+.font__title{
+    font-size: 40px;
+    text-align: left;
+
+}
+
+/* COMMENTS */
+.comments__layout{
+    
+}
