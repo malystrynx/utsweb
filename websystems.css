@@ -132,7 +132,16 @@ padding-bottom: 10px;
     text-align: left;
 
 }
-
+/* FOOTER */
+.footer__desc{
+   
+    background-color:black;
+    padding-top: 50px;
+    text-align: center;
+}
+.white{
+    color:#f4efe4;
+}
 /* COMMENTS */
 .technical__color{
    background-color: lightblue;
@@ -148,4 +157,17 @@ td{
 }
 .classes{
     color: orangered;
+}
+
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.royalblue{
+    color: royalblue;
+}
+.purple{
+    color: purple;
 }
